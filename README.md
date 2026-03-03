@@ -32,7 +32,10 @@ This project analyzes retail sales data to evaluate revenue performance, custome
 - Data Cleaning & Transformation
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
+<img width="1482" height="818" alt="image" src="https://github.com/user-attachments/assets/35caaa27-d88f-4e26-a567-b6c7bce452c3" />
+<img width="1210" height="695" alt="image" src="https://github.com/user-attachments/assets/b285df14-68f8-47ca-812b-aaff131c2da5" />
+
+
 
 ---
 
